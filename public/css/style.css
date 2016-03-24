@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #EEE;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+
+.display-img-wrapper {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: #000;
+}
+
+.display-img-wrapper img {
+	width: 100%;
+	display: block;
+}
+
+.display-img {
+	margin: 0 auto;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.list-img {
+	max-width: 150px;
+	background-color: #333;
+}

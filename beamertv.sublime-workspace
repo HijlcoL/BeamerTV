@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"console"
+			],
+			[
+				"d",
+				"docId"
+			],
+			[
+				"ch",
+				"change"
+			],
+			[
+				"fi",
+				"fileObj"
+			],
+			[
+				"rou",
+				"Router"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ro",
+				"Router"
+			],
+			[
+				"t",
+				"layoutTemplate"
+			],
+			[
+				"plug",
+				"plugins"
+			],
+			[
+				"plu",
+				"plugins"
+			],
+			[
+				"upda",
+				"updates"
+			],
+			[
+				"new",
+				"newPassword"
+			],
+			[
+				"recover",
+				"recoverThanks"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"porfolio",
+				"portfolioItem"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"curren",
+				"currentPluginVersion"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"obj",
+				"objKey"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"curr",
+				"currentId"
+			],
+			[
+				"cur",
+				"currentId"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"ord",
+				"oldPasswordVar"
+			],
+			[
+				"cu",
+				"currentId"
+			],
+			[
+				"update",
+				"updatePassword"
+			],
+			[
+				"pas",
+				"passwordVar"
+			],
+			[
+				"currn",
+				"currentUser"
+			],
+			[
+				"email",
+				"emailVar"
+			],
+			[
+				"pli",
+				"pluginName"
+			],
+			[
+				"ne",
+				"new_version"
+			],
+			[
+				"pl",
+				"pluginData"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ac",
+				"activator"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"name",
+				"nameVar"
+			],
+			[
+				"regist",
+				"registerEmail"
+			],
+			[
+				"user",
+				"userProfile"
+			],
+			[
+				"reg",
+				"RegEx"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"acc",
+				"account-wrapper"
+			],
+			[
+				"rout",
+				"Router"
+			],
+			[
+				"se",
+				"Session"
+			],
+			[
+				"log",
+				"loginLayout"
+			],
+			[
+				"lay",
+				"layoutTemplate"
+			],
+			[
+				"Recov",
+				"recoverPassword"
+			],
+			[
+				"rec",
+				"recoverPassword"
+			],
+			[
+				"port",
+				"portfolioItem"
+			],
+			[
+				"item",
+				"item-update"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wp",
+				"wp_update"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"is",
+				"isUpdate"
+			],
+			[
+				"p",
+				"Posts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/views/pages/admin/admin.js",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/server.js",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/collections/companies.js",
+			"settings":
+			{
+				"buffer_size": 577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/pages/display/display.js",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/pages/admin/companies.html",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/layouts/admin.html",
+			"settings":
+			{
+				"buffer_size": 591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/pages/display/index.html",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mup.json",
+			"settings":
+			{
+				"buffer_size": 1234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/pages/admin/add.html",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/willy/Sites/beamertv/client/views/layouts/notfound.html",
+		"/Users/willy/Sites/beamertv/client/views/pages/admin/companies.html",
+		"/Users/willy/Sites/beamertv/client/views/layouts/admin.html",
+		"/Users/willy/Sites/beamertv/public/css/style.css",
+		"/Users/willy/Sites/beamertv/client/views/pages/display/index.html",
+		"/Users/willy/Sites/beamertv/client/views/pages/display/display.js",
+		"/Users/willy/Sites/beamertv/server/server.js",
+		"/Users/willy/Sites/beamertv/server/publishment.js",
+		"/Users/willy/Sites/beamertv/lib/collections/companies.js",
+		"/Users/willy/Sites/beamertv/client/views/pages/admin/admin.js",
+		"/Users/willy/Sites/beamertv/client/views/pages/admin/add.html",
+		"/Users/willy/Sites/beamertv/client/views/layouts/main.html",
+		"/Users/willy/Sites/beamertv/lib/router.js",
+		"/Users/willy/Sites/beamertv/client/views/pages/display/display.js\\",
+		"/Users/willy/Sites/beamertv/client/head.html",
+		"/Users/willy/Sites/beamertv/client/views/layouts/admin.js",
+		"/Users/willy/Sites/beamertv/server/methods/server_save_file.js",
+		"/Users/willy/Sites/beamertv/client/methods/client_save_file.js",
+		"/Users/willy/Sites/analytics-tool/client/views/head.html",
+		"/Users/willy/Sites/beamertv/beamertv.js",
+		"/Users/willy/Sites/beamertv/client/main.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/index.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/portfolio.js",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/detail.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/account/accounts.js",
+		"/Users/willy/Sites/analytics-tool/server/cronJobs.js",
+		"/private/var/folders/6k/xc0kk3791wndrpybx9nz2lzm0000gn/T/fz3temp-1/index.php",
+		"/Users/willy/Sites/analytics-tool/lib/collections/items.js",
+		"/Users/willy/Sites/analytics-tool/client/views/layouts/main.js",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/account/passwordRecovery.html",
+		"/Users/willy/Sites/analytics-tool/lib/router.js",
+		"/Users/willy/Sites/analytics-tool/public/css/style.scss",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/dashboard/dashboard.html",
+		"/Users/willy/Sites/analytics-tool/client/views/common/sidebar.js",
+		"/Users/willy/Sites/analytics-tool/client/views/common/sidebar.html",
+		"/Users/willy/Sites/analytics-tool/public/css/style.css",
+		"/Users/willy/Sites/analytics-tool/lib/methods.js",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/update.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/create.html",
+		"/Applications/AMPPS/www/logoslide/index.php",
+		"/Users/willy/Sites/leaderboard/leaderboard.html",
+		"/Users/willy/Sites/analytics-tool/server/methods.js",
+		"/Users/willy/Sites/analytics-tool/client/views/common/header.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/portfolioList.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/portfolioItem.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/account/myAccount.html",
+		"/Users/willy/Sites/analytics-tool/server/server.js",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/account/login.html",
+		"/Users/willy/Sites/analytics-tool/client/views/common/header.js",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/account/update.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/account/register.html",
+		"/Users/willy/Sites/analytics-tool/public/img/defaults/Foove Analytics Tool.html",
+		"/Users/willy/Sites/analytics-tool/lib/collections/portfolio.js",
+		"/Users/willy/Sites/analytics-tool/lib/collections/users.js",
+		"/Users/willy/Sites/analytics-tool/server/publishments.js",
+		"/Users/willy/Sites/analytics-tool/client/views/layouts/main.html",
+		"/Users/willy/Sites/analytics-tool/server/SMTP.js",
+		"/Users/willy/Sites/analytics-tool/client/views/layouts/loginLayout.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/portfolioCreate.html",
+		"/Users/willy/Sites/analytics-tool/client/views/pages/portfolio/portfolioEdit.html",
+		"/Users/willy/Sites/analytics-tool/client/main.html",
+		"/Users/willy/Downloads/noun_204759_cc.svg",
+		"/Users/willy/Sites/analytics-tool/analytics-tool.css",
+		"/Users/willy/microscope/.meteor/packages",
+		"/Users/willy/microscope/lib/router.js",
+		"/Users/willy/microscope/client/templates/application/layout.js",
+		"/Users/willy/microscope/client/templates/posts/post_item.js",
+		"/Users/willy/microscope/client/templates/posts/post_page.html",
+		"/Users/willy/microscope/collections/posts.js",
+		"/Users/willy/microscope/client/main.html",
+		"/Users/willy/microscope/client/views/application/layout.html",
+		"/Users/willy/microscope/client/main.js",
+		"/Users/willy/microscope/client/views/posts/post_item.html",
+		"/Users/willy/microscope/client/views/posts/posts_list.html",
+		"/Users/willy/microscope/client/views/posts/post_item.js",
+		"/Users/willy/microscope/server/publications.js",
+		"/Users/willy/microscope/client/views/posts/post_list.js",
+		"/Users/willy/microscope/server/fixtures.js",
+		"/Users/willy/microscope/client/stylesheets/style.css",
+		"/Users/willy/microscope/smart.json",
+		"/Users/willy/microscope/microscope.js",
+		"/Users/willy/microscope/microscope.html",
+		"/Users/willy/simle-todos-angular/simle-todos-angular.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"centered",
+			";\n",
+			"      \n                //     }\n                    \n                //   }\n\n                //   if(pluginUpdates != []){\n                    \n                //     for (var key in pluginUpdates){\n                //       var obj = pluginUpdates[key];\n                //       var objKey = obj.Name;\n\n                //       if(objKey in dbPush){\n                //         dbPush[objKey] = {\n                //           'pluginName': objKey,\n                //           'currentPluginVersion': obj.Version,\n                //           'newPluginVersion': obj.update.new_version,\n                //           'lastUpdated': item.plugins[objKey].lastUpdated\n                //         }\n                //       }\n\n                //       Items.update({_id: item._id}, {$set: {plugins: dbPush}});\n                //     }\n\n                //   }\n                //   Items.update({_id: item._id}, {$set: {wordpress: result.data.current_version, wp_update: isUpdate, lastChecked: new Date()}});\n                //   // store current wordpress version and isUpdate in database\n                //   // Items.update({_id: item._id}, {$set: {wordpress: result.data.current_version, wp_update: isUpdate}});\n                // } else {\n                //   // if no data set wordpress version to nothing\n                //   Items.update({_id: item._id}, {$set: {wordpress: '-', wp_update: true}});\n                // }",
+			"active",
+			"nav P{",
+			"name",
+			"Object",
+			"*/\n",
+			"dbP",
+			");\n",
+			"address",
+			"div",
+			"passwordRecovery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/views/pages/admin/admin.js",
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/server.js",
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/collections/companies.js",
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/views/pages/display/display.js",
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/views/pages/admin/companies.html",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/views/layouts/admin.html",
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/views/pages/display/index.html",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/css/style.css",
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "mup.json",
+					"settings":
+					{
+						"buffer_size": 1234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1231,
+								1231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client/views/pages/admin/add.html",
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}

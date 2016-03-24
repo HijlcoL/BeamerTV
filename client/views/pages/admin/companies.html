@@ -1,0 +1,32 @@
+<template name="companies">
+
+	<table class="highlight centered">
+      <thead>
+          <tr>
+              <th data-field="id"><i class="material-icons">visibility</i></th>
+              <th data-field="name">Company Name</th>
+              <th data-field="logo">Logo</th>
+              <th data-field="actions">Actions</th>
+          </tr>
+      </thead>
+
+      <tbody>
+          {{#each companies}}
+          <tr>
+              <td>
+                  <div class="switch">
+          				    <label>
+            					   <input type="checkbox" checked="{{#if display}}checked{{/if}}">
+            					   <span class="lever"></span>
+          				    </label>
+        				  </div>
+      		    </td>
+              <td>{{name}}</td>
+              <td><img class="list-img" src="{{picture.url}}"></td>
+              <td><i class="material-icons delete">delete</i></td>
+          </tr>
+          {{/each}}
+      </tbody>
+  </table>
+
+</template>

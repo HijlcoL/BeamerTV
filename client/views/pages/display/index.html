@@ -1,0 +1,10 @@
+<template name="display">
+
+	{{#each companies}}
+		{{#if display}}
+			<div class="display-img-wrapper">
+				<img class="display-img" src="{{picture.url}}">
+			</div>
+		{{/if}}
+	{{/each}}
+</template>
