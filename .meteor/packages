@@ -28,3 +28,4 @@ meteortoys:allthings
 yogiben:autoform-file
 cfs:filesystem
 accounts-base
+cfs:s3
