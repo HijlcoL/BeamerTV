@@ -4,7 +4,7 @@ body {
 	background: #EEE;
 	height: 100%;
 	width: 100%;
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 
 
@@ -15,15 +15,13 @@ body {
 	background-color: #000;
 }
 
-.display-img-wrapper img {
-	width: 100%;
-	display: block;
-}
-
 .display-img {
-	margin: 0 auto;
-	min-width: 100%;
-	min-height: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	width: 100%;
+	max-height: 100%;
 }
 
 .list-img {

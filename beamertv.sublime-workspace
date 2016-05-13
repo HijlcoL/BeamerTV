@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"max-height"
+			],
+			[
+				"dis",
+				"display-img-wrapper"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
 				"c",
 				"console"
 			],
@@ -152,10 +164,6 @@
 				"forEach"
 			],
 			[
-				"marg",
-				"margin-top"
-			],
-			[
 				"ac",
 				"activator"
 			],
@@ -260,58 +268,10 @@
 	"buffers":
 	[
 		{
-			"file": "client/views/pages/admin/admin.js",
+			"file": "mup.json",
 			"settings":
 			{
-				"buffer_size": 687,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server/server.js",
-			"settings":
-			{
-				"buffer_size": 279,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/collections/companies.js",
-			"settings":
-			{
-				"buffer_size": 577,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/views/pages/display/display.js",
-			"settings":
-			{
-				"buffer_size": 220,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/views/pages/admin/companies.html",
-			"settings":
-			{
-				"buffer_size": 940,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/views/layouts/admin.html",
-			"settings":
-			{
-				"buffer_size": 591,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/views/pages/display/index.html",
-			"settings":
-			{
-				"buffer_size": 197,
+				"buffer_size": 1305,
 				"line_ending": "Unix"
 			}
 		},
@@ -319,23 +279,7 @@
 			"file": "public/css/style.css",
 			"settings":
 			{
-				"buffer_size": 394,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "mup.json",
-			"settings":
-			{
-				"buffer_size": 1234,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/views/pages/admin/add.html",
-			"settings":
-			{
-				"buffer_size": 117,
+				"buffer_size": 373,
 				"line_ending": "Unix"
 			}
 		}
@@ -368,17 +312,19 @@
 	},
 	"file_history":
 	[
-		"/Users/willy/Sites/beamertv/client/views/layouts/notfound.html",
-		"/Users/willy/Sites/beamertv/client/views/pages/admin/companies.html",
-		"/Users/willy/Sites/beamertv/client/views/layouts/admin.html",
+		"/Users/willy/Sites/beamertv/settings.json",
+		"/Users/willy/Sites/beamertv/mup.json",
+		"/Users/willy/Sites/beamertv/client/views/pages/display/display.js",
+		"/Users/willy/Sites/beamertv/client/views/pages/admin/add.html",
 		"/Users/willy/Sites/beamertv/public/css/style.css",
 		"/Users/willy/Sites/beamertv/client/views/pages/display/index.html",
-		"/Users/willy/Sites/beamertv/client/views/pages/display/display.js",
-		"/Users/willy/Sites/beamertv/server/server.js",
-		"/Users/willy/Sites/beamertv/server/publishment.js",
+		"/Users/willy/Sites/beamertv/client/views/layouts/admin.html",
+		"/Users/willy/Sites/beamertv/client/views/pages/admin/companies.html",
 		"/Users/willy/Sites/beamertv/lib/collections/companies.js",
+		"/Users/willy/Sites/beamertv/server/server.js",
 		"/Users/willy/Sites/beamertv/client/views/pages/admin/admin.js",
-		"/Users/willy/Sites/beamertv/client/views/pages/admin/add.html",
+		"/Users/willy/Sites/beamertv/client/views/layouts/notfound.html",
+		"/Users/willy/Sites/beamertv/server/publishment.js",
 		"/Users/willy/Sites/beamertv/client/views/layouts/main.html",
 		"/Users/willy/Sites/beamertv/lib/router.js",
 		"/Users/willy/Sites/beamertv/client/views/pages/display/display.js\\",
@@ -498,240 +444,23 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "client/views/pages/admin/admin.js",
-					"settings":
-					{
-						"buffer_size": 687,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								50,
-								50
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "server/server.js",
-					"settings":
-					{
-						"buffer_size": 279,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "lib/collections/companies.js",
-					"settings":
-					{
-						"buffer_size": 577,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								577,
-								577
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "client/views/pages/display/display.js",
-					"settings":
-					{
-						"buffer_size": 220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "client/views/pages/admin/companies.html",
-					"settings":
-					{
-						"buffer_size": 940,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								544,
-								582
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "client/views/layouts/admin.html",
-					"settings":
-					{
-						"buffer_size": 591,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								523,
-								279
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "client/views/pages/display/index.html",
-					"settings":
-					{
-						"buffer_size": 197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								185,
-								185
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "public/css/style.css",
-					"settings":
-					{
-						"buffer_size": 394,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								161,
-								161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "mup.json",
 					"settings":
 					{
-						"buffer_size": 1234,
+						"buffer_size": 1305,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1231,
-								1231
+								1173,
+								1173
 							]
 						],
 						"settings":
@@ -747,24 +476,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "client/views/pages/admin/add.html",
+					"buffer": 1,
+					"file": "public/css/style.css",
 					"settings":
 					{
-						"buffer_size": 117,
+						"buffer_size": 373,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								117,
-								117
+								281,
+								281
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
